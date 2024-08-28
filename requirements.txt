@@ -1,0 +1,4 @@
+tensorflow
+keras
+streamlit
+streamlit-push-notifications
